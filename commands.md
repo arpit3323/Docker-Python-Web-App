@@ -1,4 +1,4 @@
-# Docker Commands
+# Docker Commands List 
 
 Some of the most commonly used docker commands are 
 
@@ -13,6 +13,8 @@ Builds image from Dockerfile.
 ### docker run
 
 Runs a Docker container. 
+
+
 
 There are many arguments which you can pass to this command for example,
 
